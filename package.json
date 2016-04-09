@@ -1,0 +1,17 @@
+{
+    "name": "bguzmanrio.jasmine-autocompleter",
+    "title": "Jasmine autocompleter",
+    "description": "A new even faster way to test, it will create a template for your use cases",
+    "homepage": "https://github.com/bguzmanrio/jasmine-autocompleter-bracketsio",
+    "version": "0.1.0",
+    "author": "Borja Guzman <bguzmanrio91@gmail.com>",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    },
+    "main": "main.js",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/bguzmanrio/jasmine-autocompleter-bracketsio.git"
+    }
+}
